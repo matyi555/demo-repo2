@@ -2,5 +2,5 @@
 
 some text
 
-##local development
+## local development
 1. open index.cpp in browser
